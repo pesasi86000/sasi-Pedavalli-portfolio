@@ -160,7 +160,7 @@ export default function Hero() {
             marginBottom: '48px',
           }}
         >
-          I build the data systems that power decisions. Six years turning
+          I build the data systems that power decisions. Seven years turning
           raw chaos into clean, reliable pipelines across Azure, AWS, and GCP.
         </motion.p>
 
