@@ -231,7 +231,7 @@ export default function Hero() {
           }}
         >
           {[
-            { value: '6+', label: 'Years Experience' },
+            { value: '7+', label: 'Years Experience' },
             { value: '3', label: 'Cloud Platforms' },
             { value: 'MS', label: 'Information Quality' },
           ].map((stat, i) => (

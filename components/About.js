@@ -170,7 +170,7 @@ export default function About() {
             marginBottom: '32px',
           }}>
             I am a Data Engineer with a Master's in Information Quality from the University of Arkansas
-            and 6+ years building production data infrastructure. My work spans the full pipeline lifecycle
+            and 7+ years building production data infrastructure. My work spans the full pipeline lifecycle
             — from real-time ingestion and streaming to warehouse optimization and BI delivery.
           </p>
           <p style={{
