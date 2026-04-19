@@ -11,7 +11,7 @@ const experiences = [
     color: '#c9a227',
     highlights: [
       'Designed ETL/ELT pipelines with Azure Data Factory & Synapse Analytics for large-scale data ingestion and transformation',
-      'Built real-time ingestion flows using Kafka + Spark Structured Streaming with sub-10s data delivery latency',
+      'Built real-time ingestion flows using Kafka and Spark Structured Streaming with sub-10s data delivery latency',
       'Implemented Medallion Architecture (Bronze/Silver/Gold) with Databricks DLT and Delta Lake',
       'Integrated Microsoft Fabric pipelines across OneLake & Lakehouse, centralizing data governance',
       'Built self-service transformation UI wrappers for non-technical users, reducing engineering dependency',
@@ -29,7 +29,7 @@ const experiences = [
     highlights: [
       'Architected centralized Data Lake on S3 with lifecycle policies and intelligent tiering',
       'Designed ETL processes integrating multi-source datasets, reducing manual handling by 40%',
-      'Built event-driven workflows using Step Functions + Lambda + Glue for fault-tolerant orchestration',
+      'Built event-driven workflows using Step Functions, Lambda, and Glue for fault-tolerant orchestration',
       'Deployed real-time streaming pipelines using Apache Flink for clinical and operational analytics',
       'Automated transformation layers with dbt and Apache Airflow for SLA compliance',
       'Built predictive analytics pipelines with SageMaker for customer behavior insights',
@@ -62,7 +62,7 @@ const experiences = [
     color: '#00d4aa',
     highlights: [
       'Developed ETL pipelines with Python and Snowflake for data warehouse operations',
-      'Built real-time processing with Kafka + Spark for streaming event data',
+      'Built real-time processing with Kafka and Spark for streaming event data',
       'Automated AWS infrastructure with Terraform, reducing management time by 90%',
       'Optimized Elasticsearch clusters through shard tuning and query profiling',
       'Created streaming ingestion pipelines with Pub/Sub and Dataflow for real-time BI',

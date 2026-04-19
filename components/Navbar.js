@@ -92,7 +92,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="mailto:sasipriyapedavalli@gmail.com"
+              href="mailto:pesasi86000@gmail.com"
               style={{
                 fontFamily: 'var(--font-mono)',
                 fontSize: '11px',

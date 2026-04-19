@@ -49,7 +49,7 @@ export default function Footer() {
           gap: '24px',
         }}>
           <a
-            href="mailto:sasipriyapedavalli@gmail.com"
+            href="mailto:pesasi86000@gmail.com"
             style={{
               fontFamily: 'var(--font-mono)',
               fontSize: '11px',
@@ -62,7 +62,7 @@ export default function Footer() {
             EMAIL
           </a>
           <a
-            href="https://linkedin.com/in/sasi-pedavalli"
+            href="https://www.linkedin.com/in/p-sasi/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -77,7 +77,7 @@ export default function Footer() {
             LINKEDIN
           </a>
           <a
-            href="https://github.com/sasi-pedavalli"
+            href="https://github.com/pesasi86000"
             target="_blank"
             rel="noopener noreferrer"
             style={{

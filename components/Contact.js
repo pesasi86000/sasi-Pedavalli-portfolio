@@ -222,7 +222,7 @@ export default function Contact() {
                   gap: '10px',
                 }}>
                   <a
-                    href="mailto:sasipriyapedavalli@gmail.com"
+                    href="mailto:pesasi86000@gmail.com"
                     style={{
                       fontFamily: 'var(--font-mono)',
                       fontSize: '13px',
@@ -235,10 +235,10 @@ export default function Contact() {
                     onMouseEnter={(e) => e.target.style.color = 'var(--accent-bright)'}
                     onMouseLeave={(e) => e.target.style.color = 'var(--accent)'}
                   >
-                    sasipriyapedavalli@gmail.com
+                    pesasi86000@gmail.com
                   </a>
                   <a
-                    href="https://linkedin.com/in/sasi-pedavalli"
+                    href="https://www.linkedin.com/in/p-sasi/"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
@@ -253,7 +253,7 @@ export default function Contact() {
                     onMouseEnter={(e) => e.target.style.color = 'var(--accent-bright)'}
                     onMouseLeave={(e) => e.target.style.color = 'var(--accent)'}
                   >
-                    linkedin.com/in/sasi-pedavalli
+                    linkedin.com/in/p-sasi/
                   </a>
                 </div>
               </div>
